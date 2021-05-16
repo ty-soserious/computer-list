@@ -1,0 +1,101 @@
+[
+  {
+    "id": 0,
+    "assetName": "C000111",
+    "formFactor": "laptop",
+    "screenSize": "13-inches",
+    "operatingSystem": "Windows",
+    "make": "dell",
+    "checkedOutTo": "bob.smith@contoso.com",
+    "purchaseDate": "2021-04-25,10:00",
+    "checkOutDate": "2021-04-27,10:00"
+  },
+  {
+    "id": 1,
+    "assetName": "C000125",
+    "formFactor": "laptop",
+    "screenSize": "13-inches",
+    "operatingSystem": "Windows",
+    "make": "dell",
+    "checkedOutTo": "john.doe@contoso.com",
+    "purchaseDate": "2021-04-25,10:00",
+    "checkOutDate": "2021-04-26,10:00"
+  },
+  {
+    "id": 2,
+    "assetName": "C000106",
+    "formFactor": "laptop",
+    "screenSize": "15-inches",
+    "operatingSystem": "macOS",
+    "make": "apple",
+    "checkedOutTo": "baker.patel@contoso.com",
+    "purchaseDate": "2021-05-01,10:00",
+    "checkOutDate": "2021-05-17,10:00"
+  },
+  {
+    "id": 3,
+    "assetName": "C000108",
+    "formFactor": "laptop",
+    "screenSize": "13-inches",
+    "operatingSystem": "macOS",
+    "make": "apple",
+    "checkedOutTo": "nancy.quinn@contoso.com",
+    "purchaseDate": "2021-05-01,10:00",
+    "checkOutDate": "2021-05-03,10:00"
+  },
+  {
+    "id": 4,
+    "assetName": "C000127",
+    "formFactor": "desktop",
+    "screenSize": "n/a",
+    "operatingSystem": "Windows",
+    "make": "dell",
+    "checkedOutTo": "frank.hills@contoso.com",
+    "purchaseDate": "2021-04-25,10:00",
+    "checkOutDate": "2021-04-27,10:00"
+  },
+  {
+    "id": 5,
+    "assetName": "C000146",
+    "formFactor": "laptop",
+    "screenSize": "13-inches",
+    "operatingSystem": "Windows",
+    "make": "hp",
+    "checkedOutTo": "clark.adams@contoso.com",
+    "purchaseDate": "2021-04-25,10:00",
+    "checkOutDate": "2021-04-30,10:00"
+  },
+  {
+    "id": 6,
+    "assetName": "C000138",
+    "formFactor": "laptop",
+    "screenSize": "13-inches",
+    "operatingSystem": "macOS",
+    "make": "apple",
+    "checkedOutTo": "jason.xiang@contoso.com",
+    "purchaseDate": "2021-04-30,10:00",
+    "checkOutDate": "2021-05-01,10:00"
+  },
+  {
+    "id": 7,
+    "assetName": "C000139",
+    "formFactor": "laptop",
+    "screenSize": "15-inches",
+    "operatingSystem": "macOS",
+    "make": "apple",
+    "checkedOutTo": "usman.yakub@contoso.com",
+    "purchaseDate": "2021-04-30,10:00",
+    "checkOutDate": "2021-05-01,10:00"
+  },
+  {
+    "id": 8,
+    "assetName": "C000170",
+    "formFactor": "laptop",
+    "screenSize": "13-inches",
+    "operatingSystem": "Windows",
+    "make": "microsoft",
+    "checkedOutTo": "anthony.wilson@contoso.com",
+    "purchaseDate": "2021-05-02,10:00",
+    "checkOutDate": "2021-05-03,10:00"
+  }
+]
