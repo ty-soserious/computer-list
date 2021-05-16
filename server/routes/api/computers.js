@@ -5,7 +5,7 @@ const router = express.Router();
 
 router.get("/", async (req, res) => {
   const computers = await readComputerFile;
-  res.json(computers);
+  res.status(200).json({status: 'success', computers});
 });
 
 const readComputerFile = new Promise((resolve, reject) => {
@@ -13,7 +13,7 @@ const readComputerFile = new Promise((resolve, reject) => {
     if (err) {
       reject(err);
     }
-    resolve(data);
+    resolve(JSON.parse(data));
   });
 });
 
